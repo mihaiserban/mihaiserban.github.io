@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Alex Staravoitau's Blog"
+title                    : "Mihai Serban's Blog"
 title_separator          : "-"
-name                     : &name "Alex Staravoitau"
-description              : &description "Alex's amazing blog about tech and stuff."
-url                      : "//navoshta.com"
+name                     : &name "Mihai Serban"
+description              : &description "Mihai's amazing blog about tech and stuff."
+url                      : "//mihaiserban.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository                  : "https://github.com/navoshta/navoshta.github.io"
+repository                  : "https://github.com/mihaiserban/mihaiserban.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "navoshta"
+    shortname            : "mihaiserban.github.io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Staravoitau"
+  name             : "Mihai Serban"
   avatar           : "images/bio-photo.jpg"
   bio              : "Software engineer and machine learning enthusiast."
-  location         : "London, UK"
+  location         : "Cluj-Napoca, RO"
   email            :
   uri              :
   bitbucket        :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : navoshta
+  github           : mihaiserban
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : 300131/alex-staravoitau
   steam            :
   tumblr           :
-  twitter          : alexstaravoitau
+  twitter          : MihaiSerban
   vine             :
   weibo            :
   xing             :
